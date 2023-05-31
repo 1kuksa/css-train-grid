@@ -289,8 +289,6 @@ justify-self: end;
 .task42 .item6 {
 	grid-row: 4 / 5;
 }
-
-
 .task43 {
   display: grid;
 }
@@ -304,7 +302,6 @@ justify-self: end;
 .task44 .item3 {
 	grid-row: 1 / 3;
 }
-
 .task45 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
